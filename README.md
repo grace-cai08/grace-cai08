@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a Barnard student studying cognitive science. I'm currently working on analyzing the auditory network within the Drosophila (fruit fly) at the Gutierrez lab of computational neuroscience.
 
 <!--
 **grace-cai08/grace-cai08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
